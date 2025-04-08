@@ -61,6 +61,7 @@
 
 ## 폴더 구조
 자세한 내용은 개인 보고서 및 발표 PPT를 통해 보실 수 있습니다.
+<pre><code>## IDS-model-comparison-UNSW-NB15/ ├── README.md # 프로젝트 설명 ├── notebooks/ # 실험별 Jupyter Notebook 모음 │ ├── v1_preprocessing.ipynb # V1: 전처리만 적용 │ ├── v2_feature_extraction.ipynb # V2: 전처리 + 특성 추출 │ ├── v3_smote.ipynb # V3: 전처리 + SMOTE │ └── v4_feature_smote.ipynb # V4: 전처리 + 특성 추출 + SMOTE │ └── results/ # 실험 결과 및 평가 자료 ├── project_ppt.pdf # 발표 자료 └── model_evaluation_report.pdf # 개인 보고서 </code></pre>
 
 IDS-model-comparison-UNSW-NB15
 ├── README.md                      - 프로젝트 설명
